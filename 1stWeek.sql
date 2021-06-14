@@ -1,4 +1,4 @@
-1.
+1
 /* 
     Modify this query so that the GROUP BY and the HAVING clauses also use the [Order ID] column alias.
     What happens? Why?
